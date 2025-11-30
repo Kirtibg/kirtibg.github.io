@@ -2,3 +2,9 @@
 ---
 
 @import "minimal-light-no-dark-mode";
+
+// Custom avatar size override - 20% bigger
+header .image.avatar {
+  width: 9.18em !important;
+  height: 9.18em !important;
+}

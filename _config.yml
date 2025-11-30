@@ -12,7 +12,7 @@ email: kirtibhagat (at) iisc.ac.in
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?hl=en&user=fNMn_-wAAAAJ
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/Kirtibg
 linkedin: https://www.linkedin.com/in/kirti-bhagat-158a3a150/
@@ -20,7 +20,7 @@ twitter: https://x.com/KirtiBgt
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/profile.png
 favicon: ./assets/img/kb_icon.png
 favicon_dark: ./assets/img/kb_icon.png
 
