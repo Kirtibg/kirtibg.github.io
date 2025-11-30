@@ -2,7 +2,7 @@
 title: Kirti Bhagat
 position: Research Associate
 affiliation: Indian Institute of Science, Bangalore
-email: kirtibhagat (at) iisc.ac.in
+email: kirtibhagat2199@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -21,8 +21,8 @@ twitter: https://x.com/KirtiBgt
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/profile.png
-favicon: ./assets/img/kb_icon.png
-favicon_dark: ./assets/img/kb_icon.png
+favicon: ./assets/img/kb_icon_2.png
+favicon_dark: ./assets/img/kb_icon_2.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."

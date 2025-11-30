@@ -2,13 +2,13 @@ main:
   - title: "TALES: A Taxonomy and Analysis of Cultural Representations in LLM-generated Stories"
     authors: <strong>Kirti Bhagat</strong>*, Shaily Bhatt*, Athul Velagapudi, Aditya Vashistha, Shachi Dave, Danish Pruthi
     conference_short: 
-    conference:
+    conference: Under Review
     pdf: https://arxiv.org/pdf/2511.21322
     page: https://cultural-misrepresentations.github.io/
     code: https://github.com/FLAIR-IISc/TALES
     bibtex: 
     image: ./assets/img/tales_img.png
-    notes: Under Review
+    # notes: Under Review
 
   - title: "Richer output for richer countries: Uncovering geographical disparities in generated stories and travel recommendations"
     authors: <strong>Kirti Bhagat</strong>, Kinshuk Vasisht, Danish Pruthi

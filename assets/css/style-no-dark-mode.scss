@@ -3,8 +3,42 @@
 
 @import "minimal-light-no-dark-mode";
 
-// Custom avatar size override - 20% bigger
-header .image.avatar {
-  width: 9.18em !important;
-  height: 9.18em !important;
+// Ensure wrapper width stays the same (960px) on desktop
+.wrapper {
+  width: 960px !important;
 }
+
+// Custom avatar size override - 10% bigger
+header .image.avatar {
+  width: 11.11em !important;
+  height: 11.11em !important;
+}
+
+// Reduce spacing before social icons to match avatar-to-name spacing
+header .social-icons {
+  margin-top: 1em !important;
+}
+
+// Mobile responsive styles
+@media print, screen and (max-width: 960px) {
+  // Allow wrapper to be responsive on mobile
+  .wrapper {
+    width: auto !important;
+  }
+  
+  // Reduce avatar size on mobile
+  header .image.avatar {
+    width: 8em !important;
+    height: 8em !important;
+  }
+}
+
+// Smaller mobile devices
+@media print, screen and (max-width: 480px) {
+  // Smaller avatar on very small screens
+  header .image.avatar {
+    width: 6em !important;
+    height: 6em !important;
+  }
+}
+
