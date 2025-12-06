@@ -86,7 +86,7 @@ favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Google Analytics ID
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
   ```
 ### 編輯 `index.md`
 
