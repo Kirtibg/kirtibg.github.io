@@ -1,8 +1,8 @@
 main:
   - title: "TALES: A Taxonomy and Analysis of Cultural Representations in LLM-generated Stories"
     authors: <strong>Kirti Bhagat</strong>*, Shaily Bhatt*, Athul Velagapudi, Aditya Vashistha, Shachi Dave, Danish Pruthi
-    conference_short: 
-    conference: Under Review
+    conference_short: CHI
+    conference: Accepted at ACM CHI 2026
     pdf: https://arxiv.org/pdf/2511.21322
     page: https://cultural-misrepresentations.github.io/
     code: https://github.com/FLAIR-IISc/TALES
