@@ -8,9 +8,8 @@ My research centers on advancing responsible and socially grounded language tech
 2) Developing geo-culturally aware evaluation frameworks to assess fairness, inclusivity, and accuracy in language technologies.
 
 
-Before joining UW--Madison, I worked as a Research Associate at the Indian Institute of Science (IISc), Bangalore, advised by [Prof. Danish Pruthi](https://danishpruthi.com). Prior to that, I was a Software Development Engineer at Amazon, where I was part of the Fire OS Framework team.
-<!-- for [Amazon’s Fire tablets](https://www.amazon.com/Amazon-Fire-Tablet-Family/b?ie=UTF8&node=6669703011).  -->
-Before that, I was a Data Scientist at Bajaj Finserv Health, where I designed and built large-scale data pipelines to support data-driven healthcare applications.
+Before joining UW--Madison, I worked as a Research Associate at the Indian Institute of Science (IISc), Bangalore, advised by [Prof. Danish Pruthi](https://danishpruthi.com). 
+Earlier, I worked in industry as a Software Development Engineer on Amazon's Fire OS Framework team and, prior to that, as a Data Scientist at Bajaj Finserv Health, building large-scale data pipelines for healthcare applications.
 
 You can find more details in my [CV]({{ site.cv_link }}).
 
