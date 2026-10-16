@@ -1,9 +1,8 @@
 # Basic Information 
 title: Kirti Bhagat
-position: Research Associate
-affiliation: Indian Institute of Science, Bangalore
-email: kirtibhagat2199@gmail.com
-
+position: PhD Student
+affiliation: University of Wisconsin-Madison
+email: kbhagat4@wisc.edu
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 # keywords: minimal light
@@ -43,6 +42,8 @@ font: "Serif" # or "Sans Serif"
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
+plugins:
+  - jekyll-remote-theme
 
 # The following files will be removed from the generated website.
 exclude:
@@ -55,3 +56,4 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+

@@ -1,8 +1,19 @@
 main:
+  - title: "Where Do Images Come From? Analyzing Captions to Geographically Profile Datasets"
+    authors: Abhipsa Basu, Yugam Bahl, <strong>Kirti Bhagat</strong>, Preethi Seshadri, R. Venkatesh Babu, Danish Pruthi
+    conference_short: MAPS Workshop
+    conference: "Multimodal Alignment for a Pluralistic Society (CVPR Workshop) 2026"
+    pdf: https://arxiv.org/pdf/2602.09775
+    # code: https://github.com/FLAIR-IISc/richer-countries-have-richer-output
+    page: https://geoprofiling.github.io/
+    bibtex: 
+    notes:
+    image: ./assets/img/WhereDoImages.png
+
   - title: "TALES: A Taxonomy and Analysis of Cultural Representations in LLM-generated Stories"
     authors: <strong>Kirti Bhagat</strong>*, Shaily Bhatt*, Athul Velagapudi, Aditya Vashistha, Shachi Dave, Danish Pruthi
     conference_short: CHI
-    conference: Accepted at ACM CHI 2026
+    conference: "ACM Conference on Human Factors in Computing Systems (CHI) 2026"
     pdf: https://arxiv.org/pdf/2511.21322
     page: https://cultural-misrepresentations.github.io/
     code: https://github.com/FLAIR-IISc/TALES
@@ -13,10 +24,12 @@ main:
   - title: "Richer output for richer countries: Uncovering geographical disparities in generated stories and travel recommendations"
     authors: <strong>Kirti Bhagat</strong>, Kinshuk Vasisht, Danish Pruthi
     conference_short: NAACL 
-    conference: "Findings of the Association for Computational Linguistics: NAACL 2025"
+    conference: "North American Association for Computational Linguistics (NAACL) 2025"
     pdf: https://aclanthology.org/2025.findings-naacl.262.pdf
     code: https://github.com/FLAIR-IISc/richer-countries-have-richer-output
     page: 
     bibtex: 
     notes:
     image: ./assets/img/naacl25_img.png
+
+  
